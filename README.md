@@ -1,7 +1,7 @@
-- 👋 Howdy, I’m Alexa! I am a senior computer science major studying at Texas A&M University!
-- 👀 I’m interested in data analysis, front-end development and meteorology principles!
-- 🌱 I’m currently learning about operating systems, cybersecurity and algorithms.
-- 💞️ I’m looking to collaborate on developing web applications and creating a unique product with APIs.
+- 👋 Howdy, I’m Alexa! I am a recent grad with a B.S. in Computer Science from Texas A&M University!
+- 👀 I’m interested in data analysis and app development!
+- 🌱 I’m currently learning about computer security and web development.
+- 💞️ I’m looking to launch a career in software development, data analysis, or technology consulting.
 - 📫 If you'd like to contact me, please email me at tello.alexa@yahoo.com!
 
 <!---
